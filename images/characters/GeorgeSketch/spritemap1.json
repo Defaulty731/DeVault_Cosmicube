@@ -1,0 +1,20 @@
+{"ATLAS":{"SPRITES":[
+{"SPRITE":{"name":"0","x":3,"y":3,"w":1038,"h":768,"rotated":false}},
+{"SPRITE":{"name":"1","x":1043,"y":3,"w":68,"h":242,"rotated":false}},
+{"SPRITE":{"name":"2","x":1113,"y":3,"w":1062,"h":760,"rotated":false}},
+{"SPRITE":{"name":"3","x":2177,"y":3,"w":1059,"h":760,"rotated":false}},
+{"SPRITE":{"name":"4","x":3,"y":773,"w":1062,"h":883,"rotated":false}},
+{"SPRITE":{"name":"5","x":1067,"y":773,"w":1059,"h":854,"rotated":false}},
+{"SPRITE":{"name":"6","x":2128,"y":773,"w":1188,"h":776,"rotated":false}},
+{"SPRITE":{"name":"7","x":3,"y":1658,"w":1163,"h":837,"rotated":false}},
+{"SPRITE":{"name":"8","x":1168,"y":1658,"w":960,"h":823,"rotated":false}},
+{"SPRITE":{"name":"9","x":2130,"y":1658,"w":945,"h":823,"rotated":false}}]},
+"meta":{
+"app":"Adobe Flash CS6 (Better TA Extension)",
+"version":"12.0.0.481",
+"image":"spritemap1.png",
+"format":"RGBA8888",
+"size":{"w":4096,"h":4096},
+"resolution":"1"
+}
+}
