@@ -1,0 +1,18 @@
+{
+    "type": "playerSkin",
+    "price": 400,
+    
+    "title": "Yellow Scout",
+    "description": "Item Description",
+    
+    "color": [
+        255,
+        255,
+        0
+    ],
+    
+    "node": {
+        "parent": "GreenScout",
+        "direction": "South"
+    }
+}

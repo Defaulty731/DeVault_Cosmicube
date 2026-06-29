@@ -1,0 +1,19 @@
+{
+    "type": "speakerSkin",
+    "price": 400,
+    
+    "title": "GhostFriend",
+    "description": "The spirits will haunt you..",
+    
+    "color": [
+        255,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "BeastFriend",
+        "direction": "south"
+    }
+}
+

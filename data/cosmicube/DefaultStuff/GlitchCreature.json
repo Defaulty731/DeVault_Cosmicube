@@ -1,0 +1,19 @@
+{
+    "type": "pet",
+    "price": 200,
+    
+    "title": "Sphynx",
+    "description": "Item Description",
+    
+    "color": [
+        25,
+        0,
+        25
+    ],
+    
+    "node": {
+        "parent": "BlackScout",
+        "direction": "south"
+    }
+}
+

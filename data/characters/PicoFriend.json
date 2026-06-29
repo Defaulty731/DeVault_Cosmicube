@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-2,
+				64
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "Scared",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				33,
+				174
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BootLegIdle",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				123,
+				112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BootLegDown",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				109,
+				173
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BootLegIeft",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				29,
+				204
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BootLegRight",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				47,
+				209
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BootLegUp",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				28,
+				206
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "BootLegRight Miss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				51,
+				207
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "BootLegUp Miss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				107,
+				180
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "BootLegIeftMiss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				126,
+				115
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "BootLegDown Miss",
+			"indices": [],
+			"flipX": false
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/BeastFriend",
+	"position": [
+		98,
+		442
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "BeastFriend",
+	"gameover_character": "genericDeath",
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -15597540,
+    "flags" :{
+        "defeatRetro": "ErectFriend",
+        "runner": true,
+        "picoskin": "ErectFriend"
+    },
+	"camera_position": [
+		245,
+		-191
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

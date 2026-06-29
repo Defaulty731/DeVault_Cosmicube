@@ -1,0 +1,19 @@
+{
+    "type": "playerSkin",
+    "price": 200,
+    
+    "title": "Red Scout",
+    "description": "Item Description",
+    
+    "color": [
+        255,
+        0,
+        0
+    ],
+    
+    "node": {
+        "parent": "root",
+        "direction": "west"
+    }
+}
+

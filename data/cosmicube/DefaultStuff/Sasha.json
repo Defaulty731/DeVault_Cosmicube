@@ -1,0 +1,19 @@
+{
+    "type": "playerSkin",
+    "price": 400,
+    
+    "title": "Sasha",
+    "description": "Item Description",
+    
+    "color": [
+        255,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "root",
+        "direction": "north"
+    }
+}
+

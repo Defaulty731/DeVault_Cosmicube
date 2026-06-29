@@ -1,0 +1,19 @@
+{
+    "type": "speakerSkin",
+    "price": 200,
+    
+    "title": "Grace",
+    "description": "Item Description",
+    
+    "color": [
+        255,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "root",
+        "direction": "west"
+    }
+}
+

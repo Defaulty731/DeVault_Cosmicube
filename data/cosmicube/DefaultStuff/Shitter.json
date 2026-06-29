@@ -1,0 +1,19 @@
+{
+    "type": "pet",
+    "price": 2,
+    
+    "title": "Shita",
+    "description": "cats are shitty",
+    
+    "color": [
+        255,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "Sasha",
+        "direction": "north"
+    }
+}
+

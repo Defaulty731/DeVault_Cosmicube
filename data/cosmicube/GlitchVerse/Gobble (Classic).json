@@ -1,0 +1,18 @@
+{
+    "title": "Gobble (Classic)",
+    "type": "pet",
+    "price": 400,
+    "description": "Learn the ABCs Kids",
+
+    "color": [
+        186,
+        27,
+        106
+    ],
+
+    "node": {
+        "direction": "north",
+        "parent": "root"
+    }
+}
+

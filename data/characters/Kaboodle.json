@@ -1,0 +1,191 @@
+{
+	"pausePortrait": "",
+	"animations": [
+		{
+			"offsets": [
+				-2,
+				65
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"flipX": false,
+			"indices": [],
+			"name": "Hey"
+		},
+		{
+			"offsets": [
+				-2,
+				64
+			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
+			"anim": "scared",
+			"flipX": false,
+			"indices": [],
+			"name": "Scared"
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				-2,
+				64
+			],
+			"anim": "idle-scared",
+			"fps": 24,
+			"name": "Scared",
+			"indices": [
+				6,
+				7,
+				8,
+				9
+			],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-67,
+				32
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Sprites/Right Miss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-42,
+				74
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Sprites/Up Miss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				11,
+				5
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Sprites/Left Miss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"loop": false,
+			"flipY": false,
+			"offsets": [
+				-22,
+				-8
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Sprites/Down Miss",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "idle",
+			"loop": false,
+			"name": "Sprites/Idle"
+		},
+		{
+			"offsets": [
+				-23,
+				-6
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Sprites/Down"
+		},
+		{
+			"offsets": [
+				15,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Sprites/Left"
+		},
+		{
+			"offsets": [
+				-43,
+				72
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Sprites/Up"
+		},
+		{
+			"offsets": [
+				-68,
+				19
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Sprites/Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/Kaboodle",
+	"position": [
+		0,
+		470
+	],
+	"dance_every": 2,
+	"gameover_intial_sound": null,
+	"flags": {},
+	"scalableOffsets": false,
+	"gameover_confirm_sound": null,
+	"healthicon": "bf",
+	"afterimages": true,
+	"gameover_character": "genericDeath",
+	"vslice_sustains": false,
+	"flip_x": true,
+	"healthbar_colour": -13520687,
+	"camera_position": [
+		90,
+		61
+	],
+	"gameover_loop_sound": null,
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

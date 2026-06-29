@@ -1,0 +1,18 @@
+{
+    "title": "BeastFriend",
+    "type": "playerSkin",
+    "price": 300,
+    "description": "Your journey begins here",
+
+    "color": [
+        11,
+        5,
+        18
+    ],
+
+    "node": {
+        "direction": "West",
+        "parent": "root"
+    }
+}
+

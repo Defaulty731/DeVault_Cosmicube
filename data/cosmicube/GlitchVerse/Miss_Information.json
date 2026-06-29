@@ -1,0 +1,18 @@
+{
+    "type": "speakerSkin",
+    "price": 400,
+    "title": "Miss Information",
+    "description": "if you're losing health, press the notes with your keys when they align with the strumnotes",
+    
+    "color": [
+        255,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "Fold",
+        "direction": "north"
+    }
+}
+

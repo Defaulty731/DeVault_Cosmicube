@@ -1,0 +1,17 @@
+{
+    "type": "playerSkin",
+    "price": 100,
+    "title": "Fold",
+    "description": "One swipe, one task completed. (messes up 1000 times)",
+    
+    "color": [
+        255,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "Flappers",
+        "direction": "north"
+    }
+}

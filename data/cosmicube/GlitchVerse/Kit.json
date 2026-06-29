@@ -1,0 +1,18 @@
+{
+    "title": "Kit",
+    "type": "playerSkin",
+    "price": 240,
+    "description": "Better to sing than fighting I guess",
+
+    "color": [
+        251,
+        222,
+        68
+    ],
+
+    "node": {
+        "direction": "North",
+        "parent": "Kaboodle"
+    }
+}
+

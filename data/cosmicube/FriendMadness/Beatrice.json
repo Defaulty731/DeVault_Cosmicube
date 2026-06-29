@@ -1,0 +1,18 @@
+{
+    "type": "playerSkin",
+    "price": 200,
+    
+    "title": "Beatrice",
+    "description": "Buny Buny Buny Buny",
+    
+    "color": [
+        0,
+        255,
+        255
+    ],
+    
+    "node": {
+        "parent": "root",
+        "direction": "north"
+    }
+}

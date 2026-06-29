@@ -1,0 +1,18 @@
+{
+    "title": "Malice",
+    "type": "playerSkin",
+    "price": 360,
+    "description": "Oh kitty kitty, where are you?~",
+
+    "color": [
+        255,
+        255,
+        255
+    ],
+
+    "node": {
+        "direction": "east",
+        "parent": "Kit"
+    }
+}
+

@@ -1,0 +1,18 @@
+{
+    "title": "Gobble",
+    "type": "pet",
+    "price": 400,
+    "description": "He's a learnasaurous",
+
+     "color": [
+        186,
+        27,
+        106
+    ],
+
+    "node": {
+        "direction": "east",
+        "parent": "root"
+    }
+}
+

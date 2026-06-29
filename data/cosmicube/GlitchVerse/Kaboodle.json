@@ -1,0 +1,18 @@
+{
+    "title": "Kaboodle",
+    "type": "pet",
+    "price": 300,
+    "description": "These imposters are crap at this man",
+
+    "color": [
+        206,
+        212,
+        226
+    ],
+
+    "node": {
+        "direction": "east",
+        "parent": "Gobble"
+    }
+}
+

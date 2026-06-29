@@ -1,0 +1,18 @@
+{
+    "title": "Flappers (Classic)",
+    "type": "pet",
+    "price": 400,
+    "description": "Flappers arrive to kick your ass",
+
+    "color": [
+        115,
+        141,
+        221
+    ],
+
+    "node": {
+        "direction": "east",
+        "parent": "Gobble (Classic)"
+    }
+}
+
