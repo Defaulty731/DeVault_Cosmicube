@@ -14,112 +14,71 @@
     {
       "offsets": [33, 174],
       "flipY": false,
-      "loop": false,
+      "loop": true,
       "fps": 24,
       "anim": "idle",
       "flipX": false,
       "indices": [],
-      "name": "BootLegIdle"
+      "name": "Idle"
     },
     {
-      "offsets": [123, 112],
+      "offsets": [33, 196],
       "flipY": false,
       "loop": false,
       "fps": 24,
       "anim": "singDOWN",
       "flipX": false,
       "indices": [],
-      "name": "BootLegDown"
+      "name": "Down"
     },
     {
-      "offsets": [109, 173],
+      "offsets": [102, 202],
       "flipY": false,
       "loop": false,
       "fps": 24,
       "anim": "singLEFT",
       "flipX": false,
       "indices": [],
-      "name": "BootLegIeft"
+      "name": "Left"
     },
     {
-      "offsets": [29, 204],
+      "offsets": [60, 138],
       "flipY": false,
       "loop": false,
       "fps": 24,
       "anim": "singRIGHT",
       "flipX": false,
       "indices": [],
-      "name": "BootLegRight"
+      "name": "Right"
     },
     {
-      "offsets": [11, 201],
+      "offsets": [58, 131],
       "flipY": false,
       "loop": false,
       "fps": 24,
       "anim": "singUP",
       "flipX": false,
       "indices": [],
-      "name": "BootLegUp"
-    },
-    {
-      "offsets": [20, 172],
-      "flipY": false,
-      "loop": false,
-      "fps": 24,
-      "anim": "singRIGHTmiss",
-      "flipX": false,
-      "indices": [],
-      "name": "BootLegRight Miss"
-    },
-    {
-      "offsets": [15, 204],
-      "flipY": false,
-      "loop": false,
-      "fps": 24,
-      "anim": "singUPmiss",
-      "flipX": false,
-      "indices": [],
-      "name": "BootLegUp Miss"
-    },
-    {
-      "offsets": [111, 180],
-      "flipY": false,
-      "loop": false,
-      "fps": 24,
-      "anim": "singLEFTmiss",
-      "flipX": false,
-      "indices": [],
-      "name": "BootLegIeftMiss"
-    },
-    {
-      "offsets": [118, 118],
-      "flipY": false,
-      "loop": false,
-      "fps": 24,
-      "anim": "singDOWNmiss",
-      "flipX": false,
-      "indices": [],
-      "name": "BootLegDown Miss"
+      "name": "Up"
     }
   ],
   "no_antialiasing": false,
-  "image": "characters/bf/BeastFriendSprites/BeastFriend-Scared",
-  "position": [98, 442],
+  "image": "characters/bf/BeastFriendSprites/Falling-Beastfriend",
+  "position": [0, 352],
   "dance_every": 2,
   "gameover_intial_sound": null,
   "flags": {
-    "defeatRetro": "ErectFriend",
-    "backlit": true
+    "floating": true
   },
   "scalableOffsets": false,
   "gameover_confirm_sound": null,
-  "healthicon": "BeastFriend-Scared",
+  "healthicon": "BeastFriend",
   "afterimages": true,
   "gameover_character": "genericDeath",
   "vslice_sustains": false,
   "flip_x": true,
   "healthbar_colour": -15597540,
-  "camera_position": [245, -191],
+  "camera_position": [234, -100],
   "gameover_loop_sound": null,
   "sing_duration": 4,
   "scale": 1,
