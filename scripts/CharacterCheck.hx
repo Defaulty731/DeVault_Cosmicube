@@ -2,7 +2,7 @@ function onCreatePost(){
     if (ClientPrefs.bfSkin == 'Kit'){
         if (boyfriend.curCharacter == 'picoroomcode' || boyfriend.curCharacter == 'picoweird'){
             if (ClientPrefs.pet == 'Kaboodle'){
-                pet.alpha = 0.001;
+                pet.visible = false;
             }
             changeCharacter('Kaboodle', 0);
         }
