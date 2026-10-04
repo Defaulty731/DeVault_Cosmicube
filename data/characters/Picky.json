@@ -68,7 +68,7 @@
 	"flags": {},
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf/sasha",
+	"healthicon": "pico/Picky",
 	"afterimages": true,
 	"gameover_character": null,
 	"vslice_sustains": false,

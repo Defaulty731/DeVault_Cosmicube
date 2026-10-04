@@ -2,73 +2,44 @@
 	"pausePortrait": "",
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"indices": [],
 			"fps": 24,
-			"name": "Idle",
-			"indices": []
+			"flipX": true,
+			"flipY": false,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singLEFT",
+			"indices": [],
 			"fps": 24,
-			"name": "Left",
-			"indices": []
-		},
-		{
+			"flipX": false,
+			"flipY": false,
+			"anim": "danceRight",
 			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "Up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "Right",
-			"indices": []
+			"name": "Idle"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/CrewHolder",
 	"position": [
-		-190,
-		230
+		30,
+		160
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"flags": {},
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf/sasha",
+	"healthicon": "face",
 	"afterimages": true,
 	"gameover_character": null,
 	"vslice_sustains": false,
@@ -81,5 +52,5 @@
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
 	"scale": 1,
-	"_editor_isPlayer": true
+	"_editor_isPlayer": false
 }

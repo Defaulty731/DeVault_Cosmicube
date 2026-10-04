@@ -72,7 +72,7 @@
   },
   "scalableOffsets": false,
   "gameover_confirm_sound": null,
-  "healthicon": "BeastFriend",
+  "healthicon": "bf/BeastFriend",
   "afterimages": true,
   "gameover_character": "genericDeath",
   "vslice_sustains": false,

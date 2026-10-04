@@ -38,7 +38,7 @@
 			"loop": false,
 			"offsets": [
 				0,
-				0
+				-1
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -58,25 +58,25 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/CrewHolder",
+	"image": "characters/bf/Fexa",
 	"position": [
-		-190,
-		230
+		-60,
+		70
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"flags": {},
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf/sasha",
+	"healthicon": "othermods/Fexa",
 	"afterimages": true,
 	"gameover_character": null,
-	"vslice_sustains": false,
+	"vslice_sustains": true,
 	"flip_x": true,
-	"healthbar_colour": -8355712,
+	"healthbar_colour": -27918,
 	"camera_position": [
-		98,
-		68
+		129,
+		141
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,

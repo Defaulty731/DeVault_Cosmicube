@@ -1,0 +1,14 @@
+{
+  "type": "pet",
+  "price": 250,
+
+  "title": "Cat",
+  "description": "Try talking some sense onto this, it will just stare at you with their beady little eyeballs and they'll just walk away.",
+
+  "color": [255, 255, 255],
+
+  "node": {
+    "parent": "BBT-BF",
+    "direction": "West"
+  }
+}

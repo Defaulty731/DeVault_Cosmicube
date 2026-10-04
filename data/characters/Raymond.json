@@ -1,6 +1,39 @@
 {
-	"pausePortrait": null,
+	"pausePortrait": "",
 	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
 		{
 			"offsets": [
 				0,
@@ -10,40 +43,14 @@
 			"fps": 24,
 			"flipX": false,
 			"flipY": false,
-			"anim": "idle",
-			"loop": false,
-			"name": "Idle"
-		},
-		{
-			"offsets": [
-				-26,
-				-44
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
-			"anim": "singDOWN",
-			"loop": false,
-			"name": "Down"
-		},
-		{
-			"offsets": [
-				-23,
-				3
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singLEFT",
 			"loop": false,
-			"name": "Left"
+			"name": "Right"
 		},
 		{
 			"offsets": [
-				-20,
-				-2
+				0,
+				0
 			],
 			"indices": [],
 			"fps": 24,
@@ -51,45 +58,32 @@
 			"flipY": false,
 			"anim": "singRIGHT",
 			"loop": false,
-			"name": "Right"
-		},
-		{
-			"offsets": [
-				-31,
-				31
-			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
-			"anim": "singUP",
-			"loop": false,
-			"name": "Up"
+			"name": "Left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf/ErectFriend",
+	"image": "characters/CrewHolder",
 	"position": [
-		-20,
-		350
+		-190,
+		230
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
-	"flags": null,
+	"flags": {},
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf/ErectFriend",
-	"afterimages": false,
+	"healthicon": "Raymond",
+	"afterimages": true,
 	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -8388353,
+	"healthbar_colour": -8355712,
 	"camera_position": [
-		75,
-		84
+		98,
+		68
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,
 	"scale": 1,
-	"_editor_isPlayer": true
+	"_editor_isPlayer": false
 }

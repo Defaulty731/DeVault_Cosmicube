@@ -2,165 +2,165 @@
 	"pausePortrait": "",
 	"animations": [
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-2,
 				65
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"flipX": false,
+			"fps": 24,
+			"name": "Hey",
 			"indices": [],
-			"name": "Hey"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-3,
 				3
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"flipX": false,
-			"indices": [],
-			"name": "Left"
-		},
-		{
-			"offsets": [
-				-4,
-				9
-			],
-			"flipY": false,
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
-			"flipX": false,
+			"name": "Left",
 			"indices": [],
-			"name": "Left Miss"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				0,
 				-6
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"flipX": false,
-			"indices": [],
-			"name": "Up"
-		},
-		{
-			"offsets": [
-				-14,
-				-10
-			],
-			"flipY": false,
-			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
-			"flipX": false,
+			"name": "Up",
 			"indices": [],
-			"name": "Right"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-2,
 				64
 			],
-			"flipY": false,
-			"loop": false,
-			"fps": 24,
 			"anim": "scared",
-			"flipX": false,
-			"indices": [],
-			"name": "Scared"
-		},
-		{
-			"loop": true,
-			"flipY": false,
-			"offsets": [
-				-2,
-				64
-			],
-			"anim": "idle-scared",
 			"fps": 24,
 			"name": "Scared",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				-2,
+				64
+			],
+			"flipY": false,
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-scared",
+			"flipX": false,
 			"indices": [
 				6,
 				7,
 				8,
 				9
 			],
-			"flipX": false
+			"name": "Scared"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-5,
 				0
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "Idle",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Idle"
 		},
 		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				-14,
-				63
-			],
-			"anim": "singDOWNmiss",
-			"fps": 24,
-			"name": "Down Miss",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-12,
 				-2
 			],
+			"flipY": false,
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "Down",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Down"
 		},
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
-				-11,
-				-3
+				-12,
+				-5
 			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "Right Miss",
 			"indices": [],
-			"flipX": false
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "Down Miss"
 		},
 		{
-			"loop": false,
+			"offsets": [
+				-4,
+				9
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
 			"flipY": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Left Miss"
+		},
+		{
 			"offsets": [
 				-4,
 				-2
 			],
-			"anim": "singUPmiss",
-			"fps": 24,
-			"name": "Up Miss",
 			"indices": [],
-			"flipX": false
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "Up Miss"
+		},
+		{
+			"offsets": [
+				-14,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-17,
+				-5
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "Right Miss"
 		}
 	],
 	"no_antialiasing": false,
@@ -174,12 +174,12 @@
 	"flags": {},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf",
+	"healthicon": "bf/Beatrice",
 	"afterimages": true,
-	"gameover_character": "bf-dead",
+	"gameover_character": "genericDeath",
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -13520687,
+	"healthbar_colour": -16728065,
 	"camera_position": [
 		-40,
 		174

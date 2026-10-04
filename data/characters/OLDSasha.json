@@ -1,85 +1,92 @@
 {
-	"pausePortrait": "",
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				33,
+				174
 			],
+			"flipY": false,
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
+			"flipX": false,
 			"indices": [],
 			"name": "Idle"
 		},
 		{
 			"offsets": [
-				262,
-				35
+				26,
+				176
 			],
+			"flipY": false,
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
+			"flipX": false,
 			"indices": [],
 			"name": "Left"
 		},
 		{
 			"offsets": [
-				18,
-				-136
+				37,
+				174
 			],
+			"flipY": false,
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
+			"anim": "singRIGHT",
+			"flipX": false,
 			"indices": [],
-			"name": "Down"
+			"name": "Right"
 		},
 		{
 			"offsets": [
-				-20,
-				53
+				32,
+				172
 			],
+			"flipY": false,
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
+			"flipX": false,
 			"indices": [],
 			"name": "Up"
 		},
 		{
 			"offsets": [
-				1,
-				28
+				35,
+				172
 			],
+			"flipY": false,
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singDOWN",
+			"flipX": false,
 			"indices": [],
-			"name": "Right"
+			"name": "Down"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf/Malice",
+	"image": "characters/bf/sasha",
 	"position": [
-		-10,
-		100
+		-12,
+		342
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
-	"flags": {},
-	"scalableOffsets": true,
+	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf/Malice",
-	"afterimages": false,
+	"healthicon": "Sasha",
 	"gameover_character": "genericDeath",
 	"vslice_sustains": false,
-	"flip_x": true,
-	"healthbar_colour": -6160129,
+	"flip_x": false,
+	"healthbar_colour": -9405723,
 	"camera_position": [
-		162,
-		70
+		85,
+		-100
 	],
 	"gameover_loop_sound": null,
-	"sing_duration": 6.1,
+	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": true
 }

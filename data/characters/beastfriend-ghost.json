@@ -52,7 +52,7 @@
       "name": "BootLegRight"
     },
     {
-      "offsets": [11, 201],
+      "offsets": [47, 209],
       "flipY": false,
       "loop": false,
       "fps": 24,
@@ -62,7 +62,7 @@
       "name": "BootLegUp"
     },
     {
-      "offsets": [20, 172],
+      "offsets": [28, 206],
       "flipY": false,
       "loop": false,
       "fps": 24,
@@ -72,7 +72,7 @@
       "name": "BootLegRight Miss"
     },
     {
-      "offsets": [15, 204],
+      "offsets": [51, 207],
       "flipY": false,
       "loop": false,
       "fps": 24,
@@ -82,7 +82,7 @@
       "name": "BootLegUp Miss"
     },
     {
-      "offsets": [111, 180],
+      "offsets": [107, 180],
       "flipY": false,
       "loop": false,
       "fps": 24,
@@ -92,7 +92,7 @@
       "name": "BootLegIeftMiss"
     },
     {
-      "offsets": [118, 118],
+      "offsets": [126, 115],
       "flipY": false,
       "loop": false,
       "fps": 24,
@@ -100,20 +100,33 @@
       "flipX": false,
       "indices": [],
       "name": "BootLegDown Miss"
+    },
+    {
+      "offsets": [29, 190],
+      "indices": [],
+      "fps": 24,
+      "flipX": false,
+      "flipY": false,
+      "anim": "hey",
+      "loop": false,
+      "name": "BootLegHey"
     }
   ],
   "no_antialiasing": false,
-  "image": "characters/bf/BeastFriendSprites/BeastFriend-Scared",
+  "image": "characters/bf/BeastFriendSprites/BeastFriend",
   "position": [98, 442],
   "dance_every": 2,
   "gameover_intial_sound": null,
   "flags": {
-    "defeatRetro": "ErectFriend",
-    "backlit": true
+    "variants": {
+      "dark": "BeastFriend-Dark",
+      "falling": "BeastFriend-Falling"
+    },
+    "defeatRetro": "ErectFriend"
   },
   "scalableOffsets": false,
   "gameover_confirm_sound": null,
-  "healthicon": "bf/BeastFriend-Scared",
+  "healthicon": "bf/BeastFriend",
   "afterimages": true,
   "gameover_character": "genericDeath",
   "vslice_sustains": false,

@@ -137,7 +137,7 @@
 	"flags": {},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "BBTBF",
+	"healthicon": "bf/BBTBF",
 	"afterimages": true,
 	"gameover_character": "genericDeath",
 	"vslice_sustains": false,

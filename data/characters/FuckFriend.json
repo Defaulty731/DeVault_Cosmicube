@@ -14,8 +14,8 @@
 		},
 		{
 			"offsets": [
-				262,
-				35
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -25,8 +25,8 @@
 		},
 		{
 			"offsets": [
-				18,
-				-136
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -36,8 +36,8 @@
 		},
 		{
 			"offsets": [
-				-20,
-				53
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -47,36 +47,80 @@
 		},
 		{
 			"offsets": [
-				1,
-				28
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
 			"name": "Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Miss"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf/Malice",
+	"image": "characters/bf/FuckFriend",
 	"position": [
-		-10,
-		100
+		-110,
+		300
 	],
 	"dance_every": 2,
 	"gameover_intial_sound": null,
 	"flags": {},
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf/Malice",
-	"afterimages": false,
-	"gameover_character": "genericDeath",
+	"healthicon": "face",
+	"afterimages": true,
+	"gameover_character": null,
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -6160129,
+	"healthbar_colour": -8355712,
 	"camera_position": [
-		162,
-		70
+		118,
+		48
 	],
 	"gameover_loop_sound": null,
 	"sing_duration": 6.1,

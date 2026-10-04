@@ -164,7 +164,7 @@
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bf/Kaboodle",
+	"image": "characters/pico/Kaboodle",
 	"position": [
 		0,
 		470
@@ -174,7 +174,7 @@
 	"flags": {},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf",
+	"healthicon": "pico/Kaboodle",
 	"afterimages": true,
 	"gameover_character": "genericDeath",
 	"vslice_sustains": false,

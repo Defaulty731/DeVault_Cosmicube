@@ -128,7 +128,7 @@
 	"gameover_intial_sound": null,
 	"scalableOffsets": true,
 	"gameover_confirm_sound": null,
-	"healthicon": "kit",
+	"healthicon": "bf/kit",
 	"gameover_character": "genericDeath",
 	"vslice_sustains": false,
 	"flip_x": true,

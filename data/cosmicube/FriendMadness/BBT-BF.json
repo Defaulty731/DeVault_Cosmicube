@@ -1,0 +1,14 @@
+{
+  "type": "playerSkin",
+  "price": 250,
+
+  "title": "Prisoner BF",
+  "description": "We need to move quickly if he got to get to hatty.",
+
+  "color": [255, 255, 255],
+
+  "node": {
+    "parent": "Beatrice",
+    "direction": "north"
+  }
+}

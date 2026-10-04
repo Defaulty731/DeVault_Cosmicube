@@ -1,0 +1,17 @@
+{
+    "title": "Dead BeastFriend",
+    "type": "playerSkin",
+    "price": 300,
+    "description": "oooo spooky",
+
+    "color": [
+        11,
+        5,
+        18
+    ],
+
+    "node": {
+        "direction": "West",
+        "parent": "BeastFriend"
+    }
+}
