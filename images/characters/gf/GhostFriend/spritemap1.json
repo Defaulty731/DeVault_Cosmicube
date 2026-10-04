@@ -1,0 +1,26 @@
+{"ATLAS":{"SPRITES":[
+{"SPRITE":{"name":"0","x":4,"y":4,"w":178,"h":125,"rotated":false}},
+{"SPRITE":{"name":"1","x":185,"y":4,"w":90,"h":176,"rotated":false}},
+{"SPRITE":{"name":"2","x":278,"y":4,"w":212,"h":201,"rotated":false}},
+{"SPRITE":{"name":"3","x":493,"y":4,"w":171,"h":253,"rotated":false}},
+{"SPRITE":{"name":"4","x":667,"y":4,"w":165,"h":185,"rotated":false}},
+{"SPRITE":{"name":"5","x":4,"y":260,"w":306,"h":241,"rotated":false}},
+{"SPRITE":{"name":"6","x":313,"y":260,"w":47,"h":86,"rotated":false}},
+{"SPRITE":{"name":"7","x":363,"y":260,"w":93,"h":61,"rotated":false}},
+{"SPRITE":{"name":"8","x":459,"y":260,"w":242,"h":93,"rotated":false}},
+{"SPRITE":{"name":"9","x":704,"y":260,"w":235,"h":100,"rotated":false}},
+{"SPRITE":{"name":"10","x":4,"y":504,"w":101,"h":72,"rotated":false}},
+{"SPRITE":{"name":"11","x":108,"y":504,"w":116,"h":117,"rotated":false}},
+{"SPRITE":{"name":"12","x":227,"y":504,"w":263,"h":292,"rotated":false}},
+{"SPRITE":{"name":"13","x":493,"y":504,"w":255,"h":287,"rotated":false}},
+{"SPRITE":{"name":"14","x":751,"y":504,"w":170,"h":221,"rotated":false}},
+{"SPRITE":{"name":"15","x":4,"y":799,"w":151,"h":210,"rotated":false}}]},
+"meta":{
+"app":"Adobe Flash CS6 (Better TA Extension)",
+"version":"12.0.0.481",
+"image":"spritemap1.png",
+"format":"RGBA8888",
+"size":{"w":1024,"h":1024},
+"resolution":"1"
+}
+}
