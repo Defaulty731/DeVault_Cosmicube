@@ -5,19 +5,6 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				-2,
-				64
-			],
-			"anim": "scared",
-			"fps": 24,
-			"name": "Scared",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
 				33,
 				174
 			],
@@ -31,7 +18,7 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				123,
+				115,
 				112
 			],
 			"anim": "singDOWN",
@@ -83,21 +70,8 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				28,
-				206
-			],
-			"anim": "singRIGHTmiss",
-			"fps": 24,
-			"name": "BootLegRight Miss",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				51,
-				207
+				50,
+				209
 			],
 			"anim": "singUPmiss",
 			"fps": 24,
@@ -109,21 +83,8 @@
 			"loop": false,
 			"flipY": false,
 			"offsets": [
-				107,
-				180
-			],
-			"anim": "singLEFTmiss",
-			"fps": 24,
-			"name": "BootLegIeftMiss",
-			"indices": [],
-			"flipX": false
-		},
-		{
-			"loop": false,
-			"flipY": false,
-			"offsets": [
-				126,
-				115
+				123,
+				118
 			],
 			"anim": "singDOWNmiss",
 			"fps": 24,
@@ -143,6 +104,45 @@
 			"name": "BootLegHey",
 			"indices": [],
 			"flipX": false
+		},
+		{
+			"loop": true,
+			"flipY": false,
+			"offsets": [
+				31,
+				174
+			],
+			"anim": "scared",
+			"fps": 24,
+			"name": "BootLegscared",
+			"indices": [],
+			"flipX": false
+		},
+		{
+			"offsets": [
+				118,
+				175
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "BootLegIeftMiss"
+		},
+		{
+			"offsets": [
+				18,
+				167
+			],
+			"indices": [],
+			"fps": 24,
+			"flipX": false,
+			"flipY": false,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "BootLegRight Miss"
 		}
 	],
 	"no_antialiasing": false,
@@ -155,11 +155,11 @@
 	"gameover_intial_sound": null,
 	"flags": {
 		"variants": {
+			"dark": "BeastFriend-Dark",
 			"falling": "BeastFriend-Falling",
 			"defeat": "BeastFriend-Scared"
 		},
-		"defeatRetro": "ErectFriend",
-		"dark": "BeastFriend-Dark"
+		"defeatRetro": "ErectFriend"
 	},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
