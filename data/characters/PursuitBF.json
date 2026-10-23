@@ -2,165 +2,165 @@
 	"pausePortrait": "",
 	"animations": [
 		{
-			"loop": false,
-			"flipY": false,
 			"offsets": [
 				-2,
 				64
 			],
-			"anim": "scared",
+			"flipY": false,
+			"loop": false,
 			"fps": 24,
-			"name": "Scared",
+			"anim": "scared",
+			"flipX": false,
 			"indices": [],
-			"flipX": false
+			"name": "Scared"
 		},
 		{
+			"loop": true,
+			"flipY": false,
 			"offsets": [
 				-2,
 				64
 			],
-			"flipY": false,
-			"loop": true,
-			"fps": 24,
 			"anim": "idle-scared",
-			"flipX": false,
+			"fps": 24,
+			"name": "Scared",
 			"indices": [
 				6,
 				7,
 				8,
 				9
 			],
-			"name": "Scared"
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-35,
 				4
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "hey",
-			"loop": false,
-			"name": "BF HEY"
+			"fps": 24,
+			"name": "BF HEY",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-5,
 				0
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "idle",
-			"loop": false,
-			"name": "BF Idle"
+			"fps": 24,
+			"name": "BF Idle",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-9,
 				-28
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singDOWNmiss",
-			"loop": false,
-			"name": "BF Down Miss"
+			"fps": 24,
+			"name": "BF Down Miss",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-11,
 				-40
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singDOWN",
-			"loop": false,
-			"name": "BF Down"
+			"fps": 24,
+			"name": "BF Down",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				28,
 				14
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "BF Left"
+			"fps": 24,
+			"name": "BF Left",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				28,
 				15
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singLEFTmiss",
-			"loop": false,
-			"name": "BF Left Miss"
+			"fps": 24,
+			"name": "BF Left Miss",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-61,
 				15
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "BF Right"
+			"fps": 24,
+			"name": "BF Right",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-52,
 				14
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singRIGHTmiss",
-			"loop": false,
-			"name": "BF Right Miss"
+			"fps": 24,
+			"name": "BF Right Miss",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-28,
 				19
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singUP",
-			"loop": false,
-			"name": "BF Up"
+			"fps": 24,
+			"name": "BF Up",
+			"indices": [],
+			"flipX": false
 		},
 		{
+			"loop": false,
+			"flipY": false,
 			"offsets": [
 				-23,
 				21
 			],
-			"indices": [],
-			"fps": 24,
-			"flipX": false,
-			"flipY": false,
 			"anim": "singUPmiss",
-			"loop": false,
-			"name": "BF Up Miss"
+			"fps": 24,
+			"name": "BF Up Miss",
+			"indices": [],
+			"flipX": false
 		}
 	],
 	"no_antialiasing": false,
@@ -179,12 +179,12 @@
 	},
 	"scalableOffsets": false,
 	"gameover_confirm_sound": null,
-	"healthicon": "bf",
+	"healthicon": "bf/pursuitbf",
 	"afterimages": true,
 	"gameover_character": "genericDeath",
 	"vslice_sustains": false,
 	"flip_x": true,
-	"healthbar_colour": -13520687,
+	"healthbar_colour": -16767489,
 	"camera_position": [
 		154,
 		13
